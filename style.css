@@ -1,0 +1,7 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+.list{
+    display:inline-block;}
